@@ -1,0 +1,13 @@
+{
+  "studentcode": "a1234",
+  "name": "Apitesti Opiskelija",
+  "email": "a1234@jamk.fi",
+  "studypoints": 0,
+  "grades": [
+    {
+      "coursecode": "HTS10900",
+      "grade": 0
+    }
+  ],
+  "token": "test"
+}
